@@ -19,7 +19,7 @@ Sequence of steps:
     pip install django djangorestframework black pylint pylint-django
 
 4. Start a django project
-    django-admin startproject RestAPI .
+    `django-admin startproject RestAPI . `
     Note: Here '.' creates the projetfiles directly into the current folder without creating any extra directory.
 
 5. To run the django server.
